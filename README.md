@@ -56,20 +56,26 @@ An iOS side-scrolling aquatic-themed mobile game. Inspired by Flappy Bird.
   </table>
 </div>
 
-#### Desert Driver Live Demo | Video Demo | Client Side | Server Side
-A side-scrolling game where the user can drive across a desert in pursuit of coins.
-● Programmed Rails backend with a PostgreSQL database and serialized models to record stats and
-global leaderboard.
-● Crafted algorithms that generate randomized infinite loop and game physics using vanilla Javascript.
-● Created two unique stages and avatars using HTML5 Canvas as well as CSS and Adobe Photoshop.
+### Desert Driver 
+#### [Live Demo](https://desert-driver.netlify.app) | [Video Demo](https://youtu.be/nE5kOjIlvDw) | [Client Side](https://github.com/mdiaz26/desert-driver-app) | [Server Side](https://github.com/mdiaz26/desert-driver-api)
 
-#### Shylink Live Demo | Video Demo | Client Side | Server Side
+A side-scrolling game where the user can drive across a desert in pursuit of coins.
+- Programmed Rails backend with a PostgreSQL database and serialized models to record stats and
+global leaderboard.
+- Crafted algorithms that generate randomized infinite loop and game physics using vanilla Javascript.
+- Created two unique stages and avatars using HTML5 Canvas as well as CSS and Adobe Photoshop.
+
+### Shylink 
+#### [Live Demo](https://shylink.netlify.app/) | [Video Demo](https://youtu.be/UMLOOqhmKEI) | [Client Side](https://github.com/elzbyfar/shylink-client) | [Server Side](https://github.com/elzbyfar/shylink-backend)
+
 A url shortener. Inspired by Bitly and TinyURL.
-● Designed a fully responsive website to enable optimal UX for all devices.
-● Setup Rails with PostgreSQL database and hosted on Heroku.
-● Configured React front end and hosted end user site on Netlify.
-● Enabled validation to span user-generated alias or randomized UID code as slug for short link.
-EXPERIENCE Front End Engineering Intern at BildItOn 05/2020 - Present
+- Designed a fully responsive website to enable optimal UX for all devices.
+- Setup Rails with PostgreSQL database and hosted on Heroku.
+- Configured React front end and hosted end user site on Netlify.
+- Enabled validation to span user-generated alias or randomized UID code as slug for short link.
+
+## EXPERIENCE 
+### Front End Engineering Intern @ BildItOn (05/2020 - 08/2020)
 
 ● Refactor legacy code to new conventions and standards: ES6/Redux/Hooks.
 ● Create components based on lead designer’s StoryBook designs.
