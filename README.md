@@ -77,41 +77,53 @@ A url shortener. Inspired by Bitly and TinyURL.
 - Configured React front end and hosted end user site on Netlify.
 - Enabled validation to span user-generated alias or randomized UID code as slug for short link.
 
-
+<img src="https://github.com/elzbyfar/resume/blob/master/shylink-demo.gif?raw=true" width="100%" /> 
 
 ## EXPERIENCE 
-### Front End Engineering Intern @ BildItOn (05/2020 - 08/2020)
+### Front End Engineering Intern 
+##### Company: BildItOn (05/2020 - 08/2020)
 
-● Refactor legacy code to new conventions and standards: ES6/Redux/Hooks.
-● Create components based on lead designer’s StoryBook designs.
-● Generate iOS & Android builds through BitRise and Appetize for internal troubleshooting.
-● Ensure continuous integration and uptime via BitRise.
-● Communicate ticket progress via Jira and Bitbucket pull requests.
-Bartender at Golden Age Hospitality 09/2015 - 01/2020
-● Compiled daily inventory reports of stock and drafted proposals for orders.
-● Anticipated the bar’s and chef’s in-service needs throughout the shift.
-Head Barback at Tao Group 01/2013 - 06/2015
-● Maintained high quality relationships with customers to increase regularity.
-● Consistently multi-tasked in a fast paced environment to provide personable service.
-Junior Network Technician at Wyckoff Hospital 10/2007 - 08/2012
-● Configured Cisco switches and routers to ensure 99.9% client up-time.
-● Interfaced with vendors and service carriers concerning equipment and materials.
-● Managed moves and modifications of client hardware throughout the organization.
-● Executed and stored system configuration backups of Cisco and Avaya equipment.
-● Specialized in terminations, general infrastructure installs and rack mounting.
+- Refactor legacy code to new conventions and standards: ES6/Redux/Hooks.
+- Create components based on lead designer’s StoryBook designs.
+- Generate iOS & Android builds through BitRise and Appetize for internal troubleshooting.
+- Ensure continuous integration and uptime via BitRise.
+- Communicate ticket progress via Jira and Bitbucket pull requests.
 
-EDUCATION Flatiron School - Software Engineering
+### Bartender
+##### Company: Golden Age Hospitality (09/2015 - 01/2020)
+
+- Compiled daily inventory reports of stock and drafted proposals for orders.
+- Anticipated the bar’s and chef’s in-service needs throughout the shift.
+
+### Head Barback
+##### Company: Tao Group (01/2013 - 06/2015)
+
+- Maintained high quality relationships with customers to increase regularity.
+- Consistently multi-tasked in a fast paced environment to provide personable service.
+
+### Junior Network Technician
+##### Company: Wyckoff Hospital (10/2007 - 08/2012)
+- Configured Cisco switches and routers to ensure 99.9% client up-time.
+- Interfaced with vendors and service carriers concerning equipment and materials.
+- Managed moves and modifications of client hardware throughout the organization.
+- Executed and stored system configuration backups of Cisco and Avaya equipment.
+- Specialized in terminations, general infrastructure installs and rack mounting.
+
+## EDUCATION 
+### Flatiron School
+#### Software Engineering (01/2020 - 05/2020)
+
 Full Stack Web Development Program
-
 New York, NY
-2020 - 2020
 
-Baruch College - Music Business
+### Baruch College
+#### Music Business (2005 - 2006)
+
 Coursework towards Bachelor’s degree
-
 New York, NY
-2005 - 2006
 
-New York, NY • (646) 860-8392 • lou.m.alejo@gmail.com
+<div align="center">
+  <span>646-860-8392 • lou.m.alejo@gmail.com</span>
 
-Github • Medium • LinkedIn
+<span>[Github](https://github.com/elzbyfar) | [Medium](https://medium.com/@lou.m.alejo) | [LinkedIn](https://www.linkedin.com/in/alejoluis/)</span>
+</div>
