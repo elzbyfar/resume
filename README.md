@@ -11,8 +11,11 @@ background as a signed recording artist while moonlighting as a bartender --both
 acute focus on consumer needs. Competitive self-starter seeking to collaborate with forward-thinkers.
 
 ## SKILLS 
-React • React Native • Javascript • Rails • Ruby • SQL • OOP • HTML / HTML5 Canvas • CSS • Git
+<div align="center">
+  React • React Native • Javascript • Rails • Ruby • SQL • OOP • HTML / HTML5 Canvas • CSS • Git
 Responsive Web Design • Functional Programming • Pair Programming • Cisco • Adobe Photoshop
+</div>
+
 
 ## PROJECTS 
 
