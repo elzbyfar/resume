@@ -65,6 +65,9 @@ global leaderboard.
 - Crafted algorithms that generate randomized infinite loop and game physics using vanilla Javascript.
 - Created two unique stages and avatars using HTML5 Canvas as well as CSS and Adobe Photoshop.
 
+<img src="https://github.com/elzbyfar/resume/blob/master/ezgif.com-video-to-gif.gif?raw=true" width="95%" /> 
+
+
 ### Shylink 
 #### [Live Demo](https://shylink.netlify.app/) | [Video Demo](https://youtu.be/UMLOOqhmKEI) | [Client Side](https://github.com/elzbyfar/shylink-client) | [Server Side](https://github.com/elzbyfar/shylink-backend)
 
