@@ -65,7 +65,7 @@ global leaderboard.
 - Crafted algorithms that generate randomized infinite loop and game physics using vanilla Javascript.
 - Created two unique stages and avatars using HTML5 Canvas as well as CSS and Adobe Photoshop.
 
-<img src="https://github.com/elzbyfar/resume/blob/master/ezgif.com-video-to-gif.gif?raw=true" width="95%" /> 
+<img src="https://github.com/elzbyfar/resume/blob/master/ezgif.com-video-to-gif.gif?raw=true" width="100%" /> 
 
 
 ### Shylink 
@@ -76,6 +76,8 @@ A url shortener. Inspired by Bitly and TinyURL.
 - Setup Rails with PostgreSQL database and hosted on Heroku.
 - Configured React front end and hosted end user site on Netlify.
 - Enabled validation to span user-generated alias or randomized UID code as slug for short link.
+
+
 
 ## EXPERIENCE 
 ### Front End Engineering Intern @ BildItOn (05/2020 - 08/2020)
