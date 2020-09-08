@@ -4,26 +4,65 @@
 
 <span>[Github](https://github.com/elzbyfar) | [Medium](https://medium.com/@lou.m.alejo) | [LinkedIn](https://www.linkedin.com/in/alejoluis/)</span>
 </div>
-### PROFILE 
+
+## PROFILE 
 Full stack software engineer with experience in React, React Native and Ruby on Rails. 10 years+
 background as a signed recording artist while moonlighting as a bartender --both endeavors shared an
 acute focus on consumer needs. Competitive self-starter seeking to collaborate with forward-thinkers.
-SKILLS React • React Native • Javascript • Rails • Ruby • SQL • OOP • HTML / HTML5 Canvas • CSS • Git
-Responsive Web Design • Functional Programming • Pair Programming • Cisco • Adobe Photoshop
-PROJECTS Off The Hook Live Demo | Video Demo | Client Side | Server Side
 
+## SKILLS 
+React • React Native • Javascript • Rails • Ruby • SQL • OOP • HTML / HTML5 Canvas • CSS • Git
+Responsive Web Design • Functional Programming • Pair Programming • Cisco • Adobe Photoshop
+
+## PROJECTS 
+
+### Off The Hook 
+#### [Live Demo](https://snack.expo.io/@elzbyfar/off-the-hook) | [Video Demo](https://www.youtube.com/watch?v=9i7zOe8aDm8&feature=youtu.be) | [Client Side](https://github.com/elzbyfar/off-the-hook-client) | [Server Side](https://github.com/elzbyfar/off-the-hook-server)
 An iOS side-scrolling aquatic-themed mobile game. Inspired by Flappy Bird.
-● Implemented game’s environment using React Native Game Engine for continuous re-rendering.
-● Designed multiple levels and character animations using React Native styling and Adobe Photoshop.
-● Calibrated aquatic feel and physics using Matter.js library.
-● Developed a PostgreSQL-powered Rails API backend to keep track of user progress.
-Desert Driver Live Demo | Video Demo | Client Side | Server Side
+- Implemented game’s environment using React Native Game Engine for continuous re-rendering.
+- Designed multiple levels and character animations using React Native styling and Adobe Photoshop.
+- Calibrated aquatic feel and physics using Matter.js library.
+- Developed a PostgreSQL-powered Rails API backend to keep track of user progress.
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+          <th align="center" height="15"><h3>HOMESCREEN</h3></th>
+          <th align="center" height="15"><h3>MENUS</h3></th>
+          <th align="center" height="15"><h3>GAMEPLAY</h3></th>
+      </tr>
+      <tr>
+        <td align="center">
+          <img
+            src="https://github.com/elzbyfar/off-the-hook-client-side-update/blob/master/App/assets/img/homescreen.gif"
+            width="95%"
+          /> 
+        </td>
+        <td align="center">
+          <img
+            src="https://github.com/elzbyfar/off-the-hook-client-side-update/blob/master/App/assets/img/character-level-select.gif"
+            width="95%"
+          />
+        </td>
+        <td align="center">
+          <img
+            src="https://github.com/elzbyfar/off-the-hook-client-side-update/blob/master/App/assets/img/level-one.gif"
+            width="95%"
+          /> 
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+#### Desert Driver Live Demo | Video Demo | Client Side | Server Side
 A side-scrolling game where the user can drive across a desert in pursuit of coins.
 ● Programmed Rails backend with a PostgreSQL database and serialized models to record stats and
 global leaderboard.
 ● Crafted algorithms that generate randomized infinite loop and game physics using vanilla Javascript.
 ● Created two unique stages and avatars using HTML5 Canvas as well as CSS and Adobe Photoshop.
-Shylink Live Demo | Video Demo | Client Side | Server Side
+
+#### Shylink Live Demo | Video Demo | Client Side | Server Side
 A url shortener. Inspired by Bitly and TinyURL.
 ● Designed a fully responsive website to enable optimal UX for all devices.
 ● Setup Rails with PostgreSQL database and hosted on Heroku.
