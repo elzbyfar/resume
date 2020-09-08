@@ -16,7 +16,6 @@ acute focus on consumer needs. Competitive self-starter seeking to collaborate w
 </div>
 
 ## PROJECTS 
-<div align="center">
   ### Off The Hook 
 #### [Live Demo](https://snack.expo.io/@elzbyfar/off-the-hook) | [Video Demo](https://www.youtube.com/watch?v=9i7zOe8aDm8&feature=youtu.be) | [Client Side](https://github.com/elzbyfar/off-the-hook-client) | [Server Side](https://github.com/elzbyfar/off-the-hook-server)
 An iOS side-scrolling aquatic-themed mobile game. Inspired by Flappy Bird.
@@ -24,8 +23,6 @@ An iOS side-scrolling aquatic-themed mobile game. Inspired by Flappy Bird.
 - Designed multiple levels and character animations using React Native styling and Adobe Photoshop.
 - Calibrated aquatic feel and physics using Matter.js library.
 - Developed a PostgreSQL-powered Rails API backend to keep track of user progress.
-  
-</div>
 
 <div align="center">
   <table>
